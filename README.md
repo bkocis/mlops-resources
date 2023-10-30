@@ -44,7 +44,14 @@ Curated collection of learning material on the topic of Machine Learning Operati
 
 7. Machine Learning Security & Compliance Tools
 
-✅ [HashiCorp Vault: HashiCorp Vault Certification](https://www.youtube.com/playlist?list=PLXb5972EMl4AgsM7FgNUxkv30KZnoCGFJ)
+    ✅ [HashiCorp Vault: HashiCorp Vault Certification](https://www.youtube.com/playlist?list=PLXb5972EMl4AgsM7FgNUxkv30KZnoCGFJ)
 
-✅ [AWS GuardDuty: AWS GuardDuty Crash Course](https://aws.amazon.com/guardduty/)
+    ✅ [AWS GuardDuty: AWS GuardDuty Crash Course](https://aws.amazon.com/guardduty/)
 
+8. Data Science and MLOps
+
+    ✅ [Bridging the Gap: Converting Data Science Notebooks into Production ML Code](https://marvelousmlops.substack.com/p/bridging-the-gap-converting-data)
+
+9. End-to-end systems in MLOps
+
+    ✅ [Engineering an End-to-End ML System for a Financial Assistant Using LLMs](https://www.youtube.com/watch?v=fSRwS4foSmY)
