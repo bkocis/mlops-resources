@@ -3,6 +3,8 @@ Curated collection of learning material on the topic of Machine Learning Operati
 
 1. Machine Learning Fundamentals
 
+    ✅ [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+
     ✅ [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
 2. Version Control for Machine Learning
