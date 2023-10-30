@@ -7,6 +7,8 @@ Curated collection of learning material on the topic of Machine Learning Operati
 
     ✅ [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
+    ✅ [Machine Learning Operations (MLOps) with Vertex AI: Manage Features](https://www.coursera.org/learn/machine-learning-operations-with-vertex-ai-manage-features)
+
 2. Version Control for Machine Learning
 
     ✅ [Git and GitHub Tutorial For Beginners | Full Course](https://www.youtube.com/watch?v=3fUbBnN_H2c)
